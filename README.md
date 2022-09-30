@@ -1,7 +1,7 @@
 -  Hi, I’m @BrajanHalili
--  I’m interested in learning C++ and Java.
+-  I’m interested in learning C++, Kotlin and Java.
 -  I’m currently learning Computer Science in CUNY Hunter College.
--  I’m looking to collaborate on ...
+-  I’m looking to collaborate on any project.
 - 📫 How to reach me halilibrajan@gmail.com
 
 <!---
